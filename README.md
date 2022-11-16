@@ -107,7 +107,16 @@ Reinicamos el apache2 para implementar los cambios.
 
 ![image](https://user-images.githubusercontent.com/113515330/202188459-e586c75c-49c5-4f6d-87d2-504adb0da7fa.png)
 
-Vo
+Luego de todo esto comprobamos que si accedemos a nuestras URL's podremos acceder al archivo que hemos creado.
+
+*daw.gimbernat.eug.es*
+![image](https://user-images.githubusercontent.com/113515330/202191428-861d9a85-d9fe-47b3-be39-4516f766963c.png)
+
+*rperezma.gimbernat.eug.es*
+
+![image](https://user-images.githubusercontent.com/113515330/202191635-311f903a-ce08-4597-a5fb-70d1b516cf5a.png)
+
+
 
 
 
