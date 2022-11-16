@@ -24,5 +24,18 @@ simbólicos necesarios para añadir esta configuración a la ejecución de apach
 
 ## RESOLUCIÓN
 
+Primero de todo comprobar que el apache esta bien instalado y funciona, para ello introduciremos la IP del servidor.
+
+![image](https://user-images.githubusercontent.com/113515330/202173045-f3b6f64f-90b9-405b-8e34-909d1244b090.png)
+*Podemos ver que tenemos la practica anterior por lo tanto Apache funciona correctamente.*
+
+
+Ahora ya podemos empezar de forma segura este nuevo ejercicio, el primer paso es acceder al archivo de configuraciñon de Apache
+y modificar/comprobar que tenemos el siguiente texto:
+
+![image](https://user-images.githubusercontent.com/113515330/202173754-e7f69834-f468-4a8a-8da1-9a5402e14bca.png)
+*Así deberia verse*
+
+
 
 
