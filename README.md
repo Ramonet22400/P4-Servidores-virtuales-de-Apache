@@ -116,6 +116,13 @@ Luego de todo esto comprobamos que si accedemos a nuestras URL's podremos accede
 
 ![image](https://user-images.githubusercontent.com/113515330/202191635-311f903a-ce08-4597-a5fb-70d1b516cf5a.png)
 
+Comenzamos con la edición de html y css de los archivos creados en los directorios.
+
+![image](https://user-images.githubusercontent.com/113515330/202286234-1a347e26-c4e8-49b8-92a7-42d0ece1f971.png)
+*el HTML se ve tal que así*
+
+![image](https://user-images.githubusercontent.com/113515330/202286316-a280bb32-4d4c-4201-8403-6d74c6bbd148.png)
+*Y esto es lo que se ve a traves del directorio*
 
 
 
