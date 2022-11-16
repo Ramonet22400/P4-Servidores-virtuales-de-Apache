@@ -110,6 +110,7 @@ Reinicamos el apache2 para implementar los cambios.
 Luego de todo esto comprobamos que si accedemos a nuestras URL's podremos acceder al archivo que hemos creado.
 
 *daw.gimbernat.eug.es*
+
 ![image](https://user-images.githubusercontent.com/113515330/202191428-861d9a85-d9fe-47b3-be39-4516f766963c.png)
 
 *rperezma.gimbernat.eug.es*
@@ -119,9 +120,11 @@ Luego de todo esto comprobamos que si accedemos a nuestras URL's podremos accede
 Comenzamos con la edición de html y css de los archivos creados en los directorios.
 
 ![image](https://user-images.githubusercontent.com/113515330/202286234-1a347e26-c4e8-49b8-92a7-42d0ece1f971.png)
+
 *el HTML se ve tal que así*
 
 ![image](https://user-images.githubusercontent.com/113515330/202286316-a280bb32-4d4c-4201-8403-6d74c6bbd148.png)
+
 *Y esto es lo que se ve a traves del directorio*
 
 
