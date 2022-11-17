@@ -119,11 +119,11 @@ Luego de todo esto comprobamos que si accedemos a nuestras URL's podremos accede
 
 Comenzamos con la edición de html y css de los archivos creados en los directorios.
 
+**var/www/daw/index.html**
+
 *El HTML y el CSS se ven tal que así*
 
 ![image](https://user-images.githubusercontent.com/113515330/202291383-7910ada8-15c3-4610-a360-50865149b3d8.png)
-
-
 
 
 *Y esto es lo que se ve a traves del directorio*
@@ -131,8 +131,15 @@ Comenzamos con la edición de html y css de los archivos creados en los director
 ![image](https://user-images.githubusercontent.com/113515330/202291426-efcd016e-bc64-43b2-8e6d-efa591fe21fe.png)
 
 
+**var/wwww/rperezma/index.html**
+
+*El HTML y el CSS se ven tal que así*
+
+![image](https://user-images.githubusercontent.com/113515330/202412475-aba580bf-1715-43ef-948b-0cc03858af81.png)
+
+*Y esto es lo que se ve a traves del directorio*
+
+![image](https://user-images.githubusercontent.com/113515330/202412545-aeceb9cf-5d48-4e13-bf81-da08bdd3eed9.png)
 
 
-
-
-
+Y ya estaria acabada la práctica.
